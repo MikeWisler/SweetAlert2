@@ -22,6 +22,7 @@ alertConfirmation() {
       title: 'Buy Product X',
       text: 'This product is invincible.',
       icon: 'warning', //can be success 
+      showConfirmButton: true,
       showCancelButton: true,
       showDenyButton: true,
       confirmButtonText: 'Yes',
