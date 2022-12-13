@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+::ng-deep .swal2-deny{
+    color: white;
+    background-color:blue;
+}
+
+::ng-deep .swal2-deny{
+    color: white;
+    background-color:red;
+}
+
+::ng-deep .swal2-cancel{
+    color: white;
+    background-color:yellow;
+}
+
+::ng-deep .swal2-styled.swal2-confirm{
+    color: white;
+    background-color:green;
+}
